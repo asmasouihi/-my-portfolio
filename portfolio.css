@@ -1,0 +1,29 @@
+
+portfolio.css
+body{margin: 0;
+    padding: 0;
+    background-color: blue;}
+    #grille{display: grid;
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+        background-color: brown;
+        width: 90%;
+        height: 600px;
+        margin: auto;}
+        header{background-color: peru; grid-column: 1/span 2;}
+        nav{background-color: cyan;}
+        article{background-color: darkmagenta;}
+        footer{background-color: darkred; grid-column: 1/span 2s;}
+        .content{text-align:center;padding: 20px; font-size: 20px;}
+        h1{font-style: italic;}
+        h1{background-color: coral;}
+        body{border: burlywood;}
+        header{margin-top: ;}
+        nav{background-color: chocolate;}
+        article{background-color: burlywood
+        ;}
+        footer{background-color: darkgoldenrod;}
+        body{background-color: moccasin;}
+     h1{margin-right:60%;}
+     img{margin-right: 96%;}
+     
